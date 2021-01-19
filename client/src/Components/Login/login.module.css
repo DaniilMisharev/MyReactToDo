@@ -1,0 +1,19 @@
+.ContainerLogin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 200px;
+  font-family: 'Catamaran', sans-serif;
+}
+
+.ContainerLogin input {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.ContainerLogin button {
+  margin-top: 10px;
+  width: 180px;
+  margin-right: 5px;
+}

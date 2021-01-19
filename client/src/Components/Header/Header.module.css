@@ -1,0 +1,22 @@
+.Container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #2E6AFF;
+  color: #fff;
+  height: 80px;
+  margin-bottom: 100px;
+  padding: 0 2em;
+}
+
+.Logo {
+  user-select: none;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.Button {
+  cursor: pointer;
+  margin-right: 10px;
+  font-family: 'Merriweather Sans', sans-serif;
+  outline: none;
+}

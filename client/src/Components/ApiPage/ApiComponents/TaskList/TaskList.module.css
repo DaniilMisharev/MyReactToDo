@@ -1,0 +1,35 @@
+.ListContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+  font-family: 'Catamaran', sans-serif;
+}
+
+.Card {
+  margin-top: 5px;
+}
+
+.Task {
+  display: flex;
+  width: 400px;
+  padding-left: 10px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Text {
+  user-select: none;
+}
+
+.Check {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.Attention {
+  color: 
+}
