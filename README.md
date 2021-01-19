@@ -37,5 +37,3 @@
 ![Empty tasks page](/Users/danny/MyProjects/ProjectReactToDo/client/public/images/EmptyTasks.png "Начальная страница приложения")
 ### Страница с задачами
 ![Tasks page](/Users/danny/MyProjects/ProjectReactToDo/client/public/images/Tasks.png "Страница с задачами")
-
-# MyReactToDo
