@@ -28,12 +28,12 @@
 **Функция удаления задачи** при нажатии на кнопку (Удалить) выбранная задача будет удалена.
 
 ### Главная страница
-![Main page](/Users/danny/MyProjects/ProjectReactToDo/client/public/images/MainPage.png "Главная страница")
+![Main page](https://github.com/DaniilMisharev/MyReactToDo/blob/main/client/public/images/MainPage.png "Главная страница")
 ### Страница регистрации
-![Registration page](/Users/danny/MyProjects/ProjectReactToDo/client/public/images/RegistrationPage.png "Страница регистрации")
+![Registration page](https://github.com/DaniilMisharev/MyReactToDo/blob/main/client/public/images/RegistrationPage.png "Страница регистрации")
 ### Страница входа
-![Login page](/Users/danny/MyProjects/ProjectReactToDo/client/public/images/LoginPage.png "Страница входа")
+![Login page](https://github.com/DaniilMisharev/MyReactToDo/blob/main/client/public/images/LoginPage.png "Страница входа")
 ### Начальная страница приложения
-![Empty tasks page](/Users/danny/MyProjects/ProjectReactToDo/client/public/images/EmptyTasks.png "Начальная страница приложения")
+![Empty tasks page](https://github.com/DaniilMisharev/MyReactToDo/blob/main/client/public/images/EmptyTasks.png "Начальная страница приложения")
 ### Страница с задачами
-![Tasks page](/Users/danny/MyProjects/ProjectReactToDo/client/public/images/Tasks.png "Страница с задачами")
+![Tasks page](https://github.com/DaniilMisharev/MyReactToDo/blob/main/client/public/images/Tasks.png "Страница с задачами")
